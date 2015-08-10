@@ -1,4 +1,0 @@
----
-title: About
-Layout: default
----
