@@ -2,4 +2,4 @@ name: Hank Quinlan, Horrible Cop
 	markdown: kramdown
 
 
-baseurl: /dc_slave_markets
+base-url: /dc_slave_markets
