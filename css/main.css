@@ -140,12 +140,7 @@ article p:first-of-type:first-letter {
 }
 }
 
-feature img {
-	img {
-	display: block;
-	margin: 10px 0;
-	max-width: 50%;
-}
+
 .module {
 	border-bottom: 1px solid #DDD;
 	padding: 1.5em 0;
