@@ -155,3 +155,10 @@ article p:first-of-type:first-letter {
 	height:315px;
 	overflow-y:scroll;
 }
+
+.feature img {
+	img {
+	display: block;
+	margin: 10px 0;
+	max-width: 50%;
+}
