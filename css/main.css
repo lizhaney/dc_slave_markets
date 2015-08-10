@@ -89,6 +89,12 @@ img {
 	min-width: 85%;
 }
 
+img.feature {display: block;
+	margin: 10px 0;
+	min-width: 50%
+	
+}
+
 
 header h1 {
 	display: inline;
