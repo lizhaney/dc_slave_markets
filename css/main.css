@@ -95,6 +95,10 @@ img.feature {display: block;
 	
 }
 
+img.resize{
+   max-width:50%;
+   max-height:50%;
+}
 
 header h1 {
 	display: inline;
